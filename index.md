@@ -205,6 +205,10 @@ If we're missing a library please let us know (see below)!
 - [daviddpark/clj-json-patch](https://github.com/daviddpark/clj-json-patch)
 - [clj-json-pointer](https://github.com/borgeby/clj-json-pointer)
 
+## Swift
+
+- [Weebly/swift-jsonpatch](https://github.com/Weebly/swift-jsonpatch)
+
 # Test Suite
 
 A collection of conformance tests for JSON Patch are maintained on Github:
