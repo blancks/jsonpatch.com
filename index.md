@@ -209,6 +209,10 @@ If we're missing a library please let us know (see below)!
 
 - [Weebly/swift-jsonpatch](https://github.com/Weebly/swift-jsonpatch)
 
+## Lua
+
+- [lua-jsonpatch](https://github.com/diegogub/lua-jsonpatch)
+
 # Test Suite
 
 A collection of conformance tests for JSON Patch are maintained on Github:
